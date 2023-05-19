@@ -402,6 +402,11 @@ section .feat p {
     font-size: 24px;
   }
 }
+@media (max-width: 380px) {
+  .contact .info .label,
+  .contact .info .link {
+    font-size: 20px;
+  }
 /* End Contact */
 /* Start Footer */
 .footer {
